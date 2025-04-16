@@ -6,6 +6,9 @@ root: intro
 options:  # The options key will be applied to all chapters, but not sub-sections
   numbered: True
 chapters:
-- file: docs/01-intro/intro
+- file: docs/01-fundamental/fundamental
+- file: docs/02-associate/inassociatetro
+- file: docs/03-professional/professional
+- file: docs/04-specialty/specialty
  # sections:
  # - file: docs/01-intro/01-history/history
