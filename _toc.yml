@@ -3,15 +3,12 @@
 
 format: jb-book
 root: index
-options:
-  numbered: True
+# options:
+#   numbered: True
 parts:
   - caption: AWS Certification Overview
     chapters:
-    - file: docs/01-aws/aws
-  - caption: AWS Certification Overview
-    chapters:
-    - file: docs/01-aws/aws
+    - file: docs/01-aws/awsyoutdocs/01-fundamental/fundamentalv
   - caption: Fundamental AWS Certifications
     chapters:
     - file: docs/01-fundamental/fundamental
@@ -24,4 +21,5 @@ parts:
   - caption: Specialty AWS Certifications
     chapters:
     - file: docs/04-specialty/specialty
+
 
