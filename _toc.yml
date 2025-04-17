@@ -5,10 +5,19 @@ format: jb-book
 root: intro
 options:  # The options key will be applied to all chapters, but not sub-sections
   numbered: True
-chapters:
-- file: docs/01-fundamental/fundamental
-- file: docs/02-associate/associate
-- file: docs/03-professional/professional
-- file: docs/04-specialty/specialty
- # sections:
- # - file: docs/01-intro/01-history/history
+parts:
+  - caption: AWS Certification Overview
+    chapters:
+    - file: docs/01-aws/aws
+  - caption: Fundamental AWS Certifications
+    chapters:
+    - file: docs/01-fundamental/fundamental
+  - caption: Associate AWS Certifications
+    chapters:
+    - file: docs/02-associate/associate
+  - caption: Professional AWS Certifications
+    chapters:
+    - file: docs/03-professional/professional
+  - caption: Specialty AWS Certifications
+    chapters:
+    - file: docs/04-specialty/specialty
