@@ -15,6 +15,9 @@ parts:
   - caption: Associate AWS Certifications
     chapters:
     - file: docs/03-associate/associate
+    - file: docs/03-associate/01-data-engineer/data-engineer
+      sections:
+      - file: docs/03-associate/01-data-engineer/01-fundamentals/fundamentals
   - caption: Professional AWS Certifications
     chapters:
     - file: docs/04-professional/professional
