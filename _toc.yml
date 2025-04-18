@@ -2,24 +2,29 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: index
-# options:
-#   numbered: True
+root: intro
+options:
+  numbered: True
 parts:
   - caption: AWS Certification Overview
+    numbered: True
     chapters:
-    - file: docs/01-aws/awsyoutdocs/01-fundamental/fundamentalv
+    - file: docs/01-aws/aws
   - caption: Fundamental AWS Certifications
+    numbered: True
     chapters:
-    - file: docs/01-fundamental/fundamental
+    - file: docs/02-fundamental/fundamental
   - caption: Associate AWS Certifications
+    numbered: True
     chapters:
-    - file: docs/02-associate/associate
+    - file: docs/03-associate/associate
   - caption: Professional AWS Certifications
+    numbered: True
     chapters:
-    - file: docs/03-professional/professional
+    - file: docs/04-professional/professional
   - caption: Specialty AWS Certifications
+    numbered: True
     chapters:
-    - file: docs/04-specialty/specialty
+    - file: docs/05-specialty/specialty
 
 

@@ -1,6 +1,6 @@
 # An Introduction to Amazon Web Service
 
-This book, "Unlocking the Cloud: An Introduction to Amazon Web Services," serves as your gateway into the vast realm of AWS. Whether you're a seasoned IT professional looking to expand your skill set or a newcomer curious about the potential of cloud technology, this guide will provide you with a solid foundation to comprehend, utilize, and leverage the diverse services offered by AWS.
+This book, "An Introduction to Amazon Web Services," serves as your gateway into the vast realm of AWS. Whether you're a seasoned IT professional looking to expand your skill set or a newcomer curious about the potential of cloud technology, this guide will provide you with a solid foundation to comprehend, utilize, and leverage the diverse services offered by AWS.
 
 We'll embark on a journey that demystifies the complexities of cloud computing and breaks down the key components of AWS in a digestible manner. From the fundamental concepts of cloud computing to the practical applications of AWS services, each chapter is designed to build upon the previous, ensuring that by the end, you'll have a comprehensive understanding of how AWS can revolutionize the way you approach technology.
 
