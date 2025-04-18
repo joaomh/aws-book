@@ -7,23 +7,18 @@ options:
   numbered: True
 parts:
   - caption: AWS Certification Overview
-    numbered: True
     chapters:
     - file: docs/01-aws/aws
   - caption: Fundamental AWS Certifications
-    numbered: True
     chapters:
     - file: docs/02-fundamental/fundamental
   - caption: Associate AWS Certifications
-    numbered: True
     chapters:
     - file: docs/03-associate/associate
   - caption: Professional AWS Certifications
-    numbered: True
     chapters:
     - file: docs/04-professional/professional
   - caption: Specialty AWS Certifications
-    numbered: True
     chapters:
     - file: docs/05-specialty/specialty
 
